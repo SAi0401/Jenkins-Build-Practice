@@ -1,4 +1,4 @@
-pipeline{
+node{
     stage('GIT') {
         sh 'https://github.com/SAi0401/Jenkins-Build-Practice.git'
     }
