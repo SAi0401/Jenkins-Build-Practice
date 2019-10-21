@@ -9,3 +9,4 @@ node{
         archive 'gameoflife-web/target/*.war'
     }
 }
+
